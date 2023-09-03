@@ -1,0 +1,67 @@
+#p1 {
+  color: whitesmoke;
+  position: relative;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+}
+#p2 {
+  color: white;
+  font-size: 22px;
+  margin: 30px;
+  position: relative;
+  top: 20px;
+}
+#p3 {
+  color: gray;
+  position: relative;
+  top: 20px;
+  right: 20px;
+}
+#p4 {
+  color: white;
+  font-size: 22px;
+  position: relative;
+  top: 17px;
+  right: 20px;
+}
+#p5,
+#p7 {
+  margin-right: 20px;
+}
+#p8,
+#p11,
+#p15,
+#p18,
+#p20 {
+  color: rgb(61, 60, 60);
+  font-size: 40px;
+  margin-top: 0px;
+  padding: 10px;
+}
+#p9 {
+  color: rgb(61, 60, 60);
+  font-size: 20px;
+  margin-top: 0px;
+  margin-left: 5px;
+  padding: 10px;
+}
+#p10,
+#p12,
+#p14,
+#p16,
+#p17,
+#p19,
+#p21 {
+  color: rgb(61, 60, 60);
+  font-size: 20px;
+  margin: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px;
+}
+#p13 {
+  color: rgb(61, 60, 60);
+  font-size: 30px;
+  margin-top: 0px;
+  padding: 10px;
+}
